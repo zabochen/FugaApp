@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FugaApp</string>
+
+    <!-- Bottom Navigation -->
+    <string name="menuBottomNavigation_itemHome">Home</string>
+    <string name="menuBottomNavigation_itemBookmark">Bookmark</string>
+    <string name="menuBottomNavigation_itemPreferences">Preferences</string>
+
+</resources>
